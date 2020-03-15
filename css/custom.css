@@ -1,0 +1,267 @@
+
+.header-title {
+    color: #6bc4df;
+    margin-top: 20px;
+    font-style: italic;
+    font-family: "Arial Rounded MT Bold", serif;
+    text-shadow: 2px 2px 2px #FF69B4;
+}
+
+.header-link {
+    margin-top: 50px;
+    float: right;
+    display: none;
+}
+
+.phone-namber {
+    color: grey;
+    font-family: "Arial Rounded MT Bold", serif;
+    font-size: 20px;
+}
+
+
+.header-body {
+    height: 80px;
+    margin-top: 10px;
+}
+
+hr {
+    border-top: 5px solid #6bc4df;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.series {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+.cake-title {
+    color: #2c363f;
+}
+
+.cake-body {
+    color: gray;
+    font-size: 10px;
+}
+
+.cake-body strong {
+    color: red;
+    font-size: 12px;
+    float: right;
+}
+
+.bs-docs-footer {
+    padding-top: 20px;
+    width: 95%;
+    /*margin-top: 40px;*/
+    text-align: center;
+}
+
+
+.float-bar.vm_ {
+    width: 50px;
+    position: fixed;
+    bottom: 84px;
+    right: 40px;
+    background: #fff 95%;
+    z-index: 4;
+    white-space: nowrap
+}
+
+.float-bar-item.vm_ {
+    padding: 0 5px 0 5px;
+    margin-bottom: 5px
+}
+
+.float-bar-item-icon.vm_ {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center
+}
+
+.float-bar-item-icon i.vm_ {
+    line-height: 40px
+}
+
+.div-margin {
+    margin-top: 20px;
+}
+
+.gray-c {
+    color: #a3a3ac
+}
+
+.float-bar-item:hover .float-bar-item-content.vm_ {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1
+}
+
+.float-bar-item-content.vm_ {
+    display: block;
+    right: 65px;
+    position: absolute;
+    bottom: -10px;
+    background: #fff;
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    -webkit-transform-origin: right center;
+    -ms-transform-origin: right center;
+    transform-origin: right center;
+    opacity: 0;
+    -webkit-transition: .2s;
+    -o-transition: .2s;
+    transition: .2s
+}
+
+.float-bar-item-content.vm_:after {
+    content: '';
+    width: 15px;
+    position: absolute;
+    right: -15px;
+    top: 0;
+    bottom: 0;
+    border-left: 2px solid #000;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 0;
+    -o-border-image: -o-linear-gradient(#6bc4df 0, #6bc4df 100%) 5 5;
+    border-image: -webkit-gradient(linear, left top, left bottom, from(#6bc4df), to(#6bc4df)) 5 5;
+    border-image: linear-gradient(#6bc4df 0, #6bc4df 100%) 5 5
+}
+
+.github-corner svg {
+    fill: #25AD87
+}
+
+
+.summary-price-wrap {
+    padding: 10px 0 0;
+    background: #f3f3f3;
+}
+
+.price-wrap-title {
+    color: #a3a3ac;
+    font-size: medium
+}
+
+.color-red {
+    color: red;
+}
+
+.font-small {
+    font-size: small;
+}
+
+.operation-mark {
+    width: 28px;
+    height: 28px;
+    display: inline-block;
+    text-align: center;
+    background-color: #f3f3f3;
+}
+
+.operation-num {
+    width: 40px;
+    height: 28px;
+    display: inline-block;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.span-margin {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /*margin-left: 10px;*/
+    /*margin-right: 10px;*/
+}
+
+.a-border {
+    border: 1px solid #ccc;
+    padding: 3px 13px 3px 13px;
+    font-size: small;
+    background-color: #ffffff;
+
+}
+
+.col-0 {
+    display: none;
+}
+
+@media (min-width: 576px) {
+    .series {
+        width: 15rem;
+    }
+
+    .header-link {
+        display: none;
+    }
+
+    .col-0 {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .series {
+        width: 13rem;
+    }
+
+    .header-link {
+        display: none;
+    }
+
+    .col-0 {
+        display: inline;
+    }
+}
+
+@media (min-width: 992px) {
+    .series {
+        width: 13rem;
+    }
+
+    .header-link {
+        display: inline;
+    }
+
+    .col-0 {
+        display: inline;
+    }
+}
+
+@media (min-width: 1140px) {
+    .series {
+        width: 13rem;
+    }
+
+    .header-link {
+        display: inline;
+    }
+
+    .col-0 {
+        display: inline;
+    }
+}
+
+@media (min-width: 1200px) {
+    .series {
+        width: 16rem;
+    }
+
+    .header-link {
+        display: inline;
+    }
+
+    .col-0 {
+        display: inline;
+    }
+}
