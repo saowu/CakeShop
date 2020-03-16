@@ -16,3 +16,5 @@
 ![FireShot Capture 009 - Cake Shop - localhost.png](https://i.loli.net/2020/03/15/TZBdlPOyGev3aWi.png)
 
 ![FireShot Capture 010 - Cake Shop - localhost.png](https://i.loli.net/2020/03/15/Z24iL3qAdyD1BUI.png)
+
+![FireShot Capture 011 - Cake Shop-购物车 - localhost.png](https://i.loli.net/2020/03/16/yuJP7ZqTv4M6RjD.png)
