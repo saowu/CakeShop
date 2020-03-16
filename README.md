@@ -7,7 +7,13 @@
 [![License](https://img.shields.io/badge/license-MIT-4EB1BA.svg?style=flat-square)](https://github.com/saowu/CakeShop)
 [![GitHub forks](https://img.shields.io/github/forks/saowu/CakeShop.svg?style=flat-square)](https://github.com/saowu/CakeShop/network)
 [![GitHub stars](https://img.shields.io/github/stars/saowu/CakeShop.svg?style=flat-square)](https://github.com/saowu/CakeShop/stargazers)
-
+#### 功能模块
+```
+1.index.html:首页
+2.cakes.html:系列详情
+3.carts.html:购物车
+4.details.html:产品详情
+```
 
 
 #### UI展示
