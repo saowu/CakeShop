@@ -1,5 +1,5 @@
 # CakeShop
->使用Bootstrap搭建的蛋糕商店
+>使用Bootstrap搭建的蛋糕商店前端模板
 >
 >图片信息来自于[好利来](http://www.holiland.com/)
 
@@ -17,10 +17,10 @@
 
 
 #### UI展示
-![FireShot Capture 008 - Cake Shop - localhost.png](https://i.loli.net/2020/03/15/J2RAhKkwgeOPpIN.png)
+![1.png](https://i.loli.net/2020/03/17/7W5eNIXH8T2KbMx.png)
 
-![FireShot Capture 009 - Cake Shop - localhost.png](https://i.loli.net/2020/03/15/TZBdlPOyGev3aWi.png)
+![2.png](https://i.loli.net/2020/03/17/sYE8Xi6LAqT7k4K.png)
 
-![FireShot Capture 010 - Cake Shop - localhost.png](https://i.loli.net/2020/03/15/Z24iL3qAdyD1BUI.png)
+![3.png](https://i.loli.net/2020/03/17/w4PzWiXOf6QlVeM.png)
 
-![FireShot Capture 011 - Cake Shop-购物车 - localhost.png](https://i.loli.net/2020/03/16/yuJP7ZqTv4M6RjD.png)
+![4.png](https://i.loli.net/2020/03/17/Vec9hmFa5RT1SAB.png)
