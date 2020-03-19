@@ -14,6 +14,7 @@
 3.carts.html:购物车
 4.details.html:产品详情
 5.orders.html:订单中心
+6.order_details:订单详情
 ```
 
 
@@ -27,3 +28,5 @@
 ![carts.png](https://i.loli.net/2020/03/18/9oSf6WcAHBZ1iFC.png)
 
 ![orders.png](https://i.loli.net/2020/03/18/hLx7ke5aRj16Nw9.png)
+
+![order_details.png](https://i.loli.net/2020/03/19/lzTkPHBe35Dbhia.png)

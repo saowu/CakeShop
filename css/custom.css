@@ -379,8 +379,6 @@ hr {
 
 /*订单*/
 .order-title {
-    /*padding-left: 15px;*/
-    /*padding-right: 15px;*/
     height: 31px;
     line-height: 31px
 }
@@ -389,3 +387,74 @@ hr {
     padding-left: 35px;
     padding-right: 10px;
 }
+
+/*订单详情*/
+
+.node ul {
+    z-index: 1;
+    width: 189px;
+    margin-left: -90px;
+}
+
+ul {
+    list-style: none;
+}
+
+
+.order-process {
+    display: inline-block;
+    margin: 80px 0 96px;
+    width: 821px;
+}
+
+.order-process .done {
+    background-position: 0 -38px;
+}
+
+.proce {
+    position: relative;
+    float: left;
+    width: 124px;
+    height: 9px;
+    background: url(../img/proce-icons.png) no-repeat;
+}
+
+.node {
+    position: relative;
+    top: -17px;
+    float: left;
+    width: 45px;
+    height: 43px;
+}
+
+.node-icon {
+    position: absolute;
+    display: block;
+    left: 1px;
+    top: 0;
+    width: 43px;
+    height: 43px;
+    background: url(../img/node-icons.png) no-repeat;
+    overflow: hidden;
+}
+
+.icon-start {
+    background-position: 0 -108px;
+}
+
+.icon-pay {
+    background-position: -54px -108px;
+}
+
+.icon-store {
+    background-position: -108px -108px;
+}
+
+.icon-express {
+    background-position: -270px -108px;
+}
+
+.icon-finish {
+    background-position: -216px -54px;
+}
+
