@@ -1,7 +1,8 @@
 # CakeShop
 >使用Bootstrap搭建的蛋糕商店前端模板
 >
->图片信息来自于[好利来](http://www.holiland.com/)
+>图片信息来自于[好利来](http://www.holiland.com/),
+>个别页面参考[京东](https://jd.com/)布局
 
 [![Build Status](https://img.shields.io/travis/otale/tale.svg?style=flat-square)](https://github.com/saowu/CakeShop)
 [![License](https://img.shields.io/badge/license-MIT-4EB1BA.svg?style=flat-square)](https://github.com/saowu/CakeShop)
@@ -14,7 +15,7 @@
 3.carts.html:购物车
 4.details.html:产品详情
 5.orders.html:订单中心
-6.order_details:订单详情
+6.order_details.html:订单详情
 ```
 
 
@@ -29,4 +30,4 @@
 
 ![orders.png](https://i.loli.net/2020/03/18/hLx7ke5aRj16Nw9.png)
 
-![order_details.png](https://i.loli.net/2020/03/19/lzTkPHBe35Dbhia.png)
+![order_details.png](https://i.loli.net/2020/03/20/EIAWHUu1DpzV6YF.png)

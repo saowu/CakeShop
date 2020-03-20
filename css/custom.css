@@ -458,3 +458,18 @@ ul {
     background-position: -216px -54px;
 }
 
+.order-info-title {
+    padding-left: 20px;
+}
+
+
+.order-info-body1 {
+    padding-top: 20px;
+    padding-left: 20px
+}
+
+.order-info-body2 {
+    padding-top: 20px;
+    /*padding-left: 10px*/
+}
+
